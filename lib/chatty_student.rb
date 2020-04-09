@@ -20,3 +20,4 @@ class Chatty_Student < Student
     super
     super
 end
+end
